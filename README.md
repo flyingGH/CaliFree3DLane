@@ -104,6 +104,3 @@ python val_openlane.py
 
 ## Visualization
 <p align="center"><img src="images/openlane.jpg" width="1000"/></p>
-
-## Visualization
-<p align="center"><img src="images/openlane.jpg" width="1000"/></p>
